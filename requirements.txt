@@ -1,0 +1,2 @@
+# Uses standard Python 3 libraries (heapq)
+# Optional extensions: numpy, matplotlib
